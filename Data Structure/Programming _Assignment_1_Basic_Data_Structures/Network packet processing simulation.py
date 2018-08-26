@@ -21,7 +21,7 @@ for i in a:
             u += 1
             if u == num: break
         f = f[u:]
-        '''f = [i for i in f if i > A]'''
+         
 
         if len(f) == S:
             print(-1)
